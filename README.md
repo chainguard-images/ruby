@@ -20,10 +20,10 @@ docker pull cgr.dev/chainguard/ruby:latest
 
 | Tag | Digest | Arch |
 | --- | ------ | ---- |
-| `migration-30-20221118` | `sha256:1e49a8a1943dfc3af0533806b5f2eb7a8ee849a60f9b0f51ef2a58db5762b239`<br/>[View entry in Rekor](https://rekor.tlog.dev/?hash=sha256:1e49a8a1943dfc3af0533806b5f2eb7a8ee849a60f9b0f51ef2a58db5762b239) | `amd64` |
-| `migration-30` `migration-30-20221119` `migration-30-3` `migration-30-3.0` `migration-30-3.0.4` `migration-30-3.0.4-r0` | `sha256:af7c598cc1de60aaf3c195592a22f891218e003c23b5a24a3caed97e093e079e`<br/>[View entry in Rekor](https://rekor.tlog.dev/?hash=sha256:af7c598cc1de60aaf3c195592a22f891218e003c23b5a24a3caed97e093e079e) | `amd64` |
 | `migration-31-20221118` | `sha256:59610dd6a14c91d8c00324076502410e1f72ac60ca85745b3de88f9181010cfd`<br/>[View entry in Rekor](https://rekor.tlog.dev/?hash=sha256:59610dd6a14c91d8c00324076502410e1f72ac60ca85745b3de88f9181010cfd) | `amd64` |
 | `migration-31` `migration-31-20221119` `migration-31-3` `migration-31-3.1` `migration-31-3.1.2` `migration-31-3.1.2-r0` | `sha256:3c1dbc4e66d78db96f9d48900865186fc9bc6c8ed513b67554caadbeb6b97f3d`<br/>[View entry in Rekor](https://rekor.tlog.dev/?hash=sha256:3c1dbc4e66d78db96f9d48900865186fc9bc6c8ed513b67554caadbeb6b97f3d) | `amd64` |
+| `migration-30-20221118` | `sha256:1e49a8a1943dfc3af0533806b5f2eb7a8ee849a60f9b0f51ef2a58db5762b239`<br/>[View entry in Rekor](https://rekor.tlog.dev/?hash=sha256:1e49a8a1943dfc3af0533806b5f2eb7a8ee849a60f9b0f51ef2a58db5762b239) | `amd64` |
+| `migration-30` `migration-30-20221119` `migration-30-3` `migration-30-3.0` `migration-30-3.0.4` `migration-30-3.0.4-r0` | `sha256:af7c598cc1de60aaf3c195592a22f891218e003c23b5a24a3caed97e093e079e`<br/>[View entry in Rekor](https://rekor.tlog.dev/?hash=sha256:af7c598cc1de60aaf3c195592a22f891218e003c23b5a24a3caed97e093e079e) | `amd64` |
 
 
 ## Usage
