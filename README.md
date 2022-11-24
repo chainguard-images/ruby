@@ -20,16 +20,18 @@ docker pull cgr.dev/chainguard/ruby:latest
 
 | Tag | Digest | Arch |
 | --- | ------ | ---- |
+| `migration-30-20221121` | `sha256:73c296724a4862c0b02c84b5ef2fb00fdf615a9fdc494aacf0ceedafe1e56971`<br/>[View entry in Rekor](https://rekor.tlog.dev/?hash=sha256:73c296724a4862c0b02c84b5ef2fb00fdf615a9fdc494aacf0ceedafe1e56971) | `amd64` |
+| `migration-30-20221122` | `sha256:e716d057ed9f596bd6b7a8253026718f43fc4ed05f092025f6922146578aed05`<br/>[View entry in Rekor](https://rekor.tlog.dev/?hash=sha256:e716d057ed9f596bd6b7a8253026718f43fc4ed05f092025f6922146578aed05) | `amd64` |
+| `migration-31-20221118` | `sha256:59610dd6a14c91d8c00324076502410e1f72ac60ca85745b3de88f9181010cfd`<br/>[View entry in Rekor](https://rekor.tlog.dev/?hash=sha256:59610dd6a14c91d8c00324076502410e1f72ac60ca85745b3de88f9181010cfd) | `amd64` |
+| `migration-30` `migration-30-20221123` `migration-30-3` `migration-30-3.0` `migration-30-3.0.4` `migration-30-3.0.4-r0` | `sha256:086ca3562ff4a6eaea7358b1a84e6945cac02000f8bd7fba13f10a996d119f6a`<br/>[View entry in Rekor](https://rekor.tlog.dev/?hash=sha256:086ca3562ff4a6eaea7358b1a84e6945cac02000f8bd7fba13f10a996d119f6a) | `amd64` |
 | `migration-31-20221119` | `sha256:3c1dbc4e66d78db96f9d48900865186fc9bc6c8ed513b67554caadbeb6b97f3d`<br/>[View entry in Rekor](https://rekor.tlog.dev/?hash=sha256:3c1dbc4e66d78db96f9d48900865186fc9bc6c8ed513b67554caadbeb6b97f3d) | `amd64` |
 | `migration-30-20221119` | `sha256:af7c598cc1de60aaf3c195592a22f891218e003c23b5a24a3caed97e093e079e`<br/>[View entry in Rekor](https://rekor.tlog.dev/?hash=sha256:af7c598cc1de60aaf3c195592a22f891218e003c23b5a24a3caed97e093e079e) | `amd64` |
+| `migration-31-20221121` | `sha256:ecfa30999ef910078fdc11dcb6ae34e05218fc0534cb48a9bdc9e92d84233eb8`<br/>[View entry in Rekor](https://rekor.tlog.dev/?hash=sha256:ecfa30999ef910078fdc11dcb6ae34e05218fc0534cb48a9bdc9e92d84233eb8) | `amd64` |
+| `migration-31-20221122` | `sha256:69a904a5132890a9b5997cc5070b67329ef8131bc812c252b3b842497ca5f685`<br/>[View entry in Rekor](https://rekor.tlog.dev/?hash=sha256:69a904a5132890a9b5997cc5070b67329ef8131bc812c252b3b842497ca5f685) | `amd64` |
+| `migration-31` `migration-31-20221123` `migration-31-3` `migration-31-3.1` `migration-31-3.1.2` `migration-31-3.1.2-r0` | `sha256:8a389547f6bf599a069fc68a692a0595f3f161c2c71b486d497050d7c86facd6`<br/>[View entry in Rekor](https://rekor.tlog.dev/?hash=sha256:8a389547f6bf599a069fc68a692a0595f3f161c2c71b486d497050d7c86facd6) | `amd64` |
+| `migration-30-20221118` | `sha256:1e49a8a1943dfc3af0533806b5f2eb7a8ee849a60f9b0f51ef2a58db5762b239`<br/>[View entry in Rekor](https://rekor.tlog.dev/?hash=sha256:1e49a8a1943dfc3af0533806b5f2eb7a8ee849a60f9b0f51ef2a58db5762b239) | `amd64` |
 | `migration-30-20221120` | `sha256:e01169e957c060078a51b6a5571a11aaf11368bd24fdf018dc949477c6e30554`<br/>[View entry in Rekor](https://rekor.tlog.dev/?hash=sha256:e01169e957c060078a51b6a5571a11aaf11368bd24fdf018dc949477c6e30554) | `amd64` |
 | `migration-31-20221120` | `sha256:5a5f44d635ebc106e7f91442b29e60ddfd3b2f4704f0d89b6b3905e8adbfcde3`<br/>[View entry in Rekor](https://rekor.tlog.dev/?hash=sha256:5a5f44d635ebc106e7f91442b29e60ddfd3b2f4704f0d89b6b3905e8adbfcde3) | `amd64` |
-| `migration-30-20221121` | `sha256:73c296724a4862c0b02c84b5ef2fb00fdf615a9fdc494aacf0ceedafe1e56971`<br/>[View entry in Rekor](https://rekor.tlog.dev/?hash=sha256:73c296724a4862c0b02c84b5ef2fb00fdf615a9fdc494aacf0ceedafe1e56971) | `amd64` |
-| `migration-31-20221118` | `sha256:59610dd6a14c91d8c00324076502410e1f72ac60ca85745b3de88f9181010cfd`<br/>[View entry in Rekor](https://rekor.tlog.dev/?hash=sha256:59610dd6a14c91d8c00324076502410e1f72ac60ca85745b3de88f9181010cfd) | `amd64` |
-| `migration-31` `migration-31-20221122` `migration-31-3` `migration-31-3.1` `migration-31-3.1.2` `migration-31-3.1.2-r0` | `sha256:69a904a5132890a9b5997cc5070b67329ef8131bc812c252b3b842497ca5f685`<br/>[View entry in Rekor](https://rekor.tlog.dev/?hash=sha256:69a904a5132890a9b5997cc5070b67329ef8131bc812c252b3b842497ca5f685) | `amd64` |
-| `migration-30` `migration-30-20221122` `migration-30-3` `migration-30-3.0` `migration-30-3.0.4` `migration-30-3.0.4-r0` | `sha256:e716d057ed9f596bd6b7a8253026718f43fc4ed05f092025f6922146578aed05`<br/>[View entry in Rekor](https://rekor.tlog.dev/?hash=sha256:e716d057ed9f596bd6b7a8253026718f43fc4ed05f092025f6922146578aed05) | `amd64` |
-| `migration-31-20221121` | `sha256:ecfa30999ef910078fdc11dcb6ae34e05218fc0534cb48a9bdc9e92d84233eb8`<br/>[View entry in Rekor](https://rekor.tlog.dev/?hash=sha256:ecfa30999ef910078fdc11dcb6ae34e05218fc0534cb48a9bdc9e92d84233eb8) | `amd64` |
-| `migration-30-20221118` | `sha256:1e49a8a1943dfc3af0533806b5f2eb7a8ee849a60f9b0f51ef2a58db5762b239`<br/>[View entry in Rekor](https://rekor.tlog.dev/?hash=sha256:1e49a8a1943dfc3af0533806b5f2eb7a8ee849a60f9b0f51ef2a58db5762b239) | `amd64` |
 
 
 ## Usage
